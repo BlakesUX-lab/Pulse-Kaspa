@@ -89,9 +89,9 @@ Kaspa (and Kaspa-supported stablecoins) allow Pulse to distribute micro-rewards 
 ## Design Files
 This submission focuses on **product design, user experience, and system architecture**, not implemented code.
 
-- High-Fidelity Prototype & System Flow (Figma)  
-- Sitemap (Figma)  
-- Wireframes (Figma)  
+- High-Fidelity Prototype & System Flow (Figma)  https://www.figma.com/proto/Gz8idtKwss6sHXBJTRNPIE/Pulse-Final-UI-Designs?node-id=0-1&t=fIluumf8qZkrDSte-1
+- Sitemap (Figma)  https://www.figma.com/proto/GjllmtsjEncNGDf7HcXBo3/Pulse-Site-Map?node-id=0-1&t=ONdk9md1NpqXwR19-1
+- Wireframes (Figma)  https://www.figma.com/proto/HQyVjKBhwSKLhSvA0HP3Kx/Hackathon-WireFrames?t=fIluumf8qZkrDSte-1&node-id=9-20
 
 ---
 
